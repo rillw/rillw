@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://rillw.github.io/</loc>
-  <lastmod>2022-05-31T20:59:00Z</lastmod>
+  <lastmod>2022-05-31T21:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://rillw.github.io/2022/</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>https://rillw.github.io/listings/</loc>
   <lastmod>2022-05-31T20:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://rillw.github.io/pages/about-me/</loc>
+  <lastmod>2022-05-31T21:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://rillw.github.io/posts/why-i-am-doing-this-podcast/</loc>
