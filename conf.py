@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Rill"  # (translatable)
 BLOG_TITLE = "Star Base Cafe"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://rillw.github.io/"
+SITE_URL = "https://rillw.github.io/rillw/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://rillw.github.io/"
+# BASE_URL = "https://rillw.github.io/rillw/"
 BLOG_EMAIL = "starbasecafe@gmail.com"
 BLOG_DESCRIPTION = "Star Base Cafe Podcast"  # (translatable)
 
