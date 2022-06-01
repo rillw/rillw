@@ -25,7 +25,7 @@ SITE_URL = "https://rillw.github.io/rillw/"
 
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://rillw.github.io/rillw/"
+BASE_URL = "https://rillw.github.io/rillw/"
 BLOG_EMAIL = "starbasecafe@gmail.com"
 BLOG_DESCRIPTION = "Star Base Cafe Podcast"  # (translatable)
 
