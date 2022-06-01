@@ -1,4 +1,4 @@
-Sitemap: https://rillw.github.io/sitemapindex.xml
+Sitemap: https://rillw.github.io/rillw/sitemapindex.xml
 
 User-Agent: *
 Host: rillw.github.io
